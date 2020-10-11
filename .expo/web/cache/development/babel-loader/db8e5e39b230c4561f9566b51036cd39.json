@@ -1,0 +1,1 @@
+{"ast":null,"code":"module.exports = require(\"./src/index\");","map":{"version":3,"sources":["C:/Users/litalush/work/PropertyFinder/node_modules/react-native-accordion/index.js"],"names":["module","exports","require"],"mappings":"AAAAA,MAAM,CAACC,OAAP,GAAiBC,OAAO,eAAxB","sourcesContent":["module.exports = require('./src/index');\n"]},"metadata":{},"sourceType":"script"}
