@@ -9,10 +9,10 @@ This project Display a 5-day weather forecast based on the current user location
 ### OpenWeatherMap API
 ### 
 
-#### Main screen - day zone
+#### Main screen - day mode
 ![](https://github.com/Maudah/React-Native-WeatherApp/blob/main/src/img/Main_sreen_day.JPG)
 
-#### Main screen - night zone
+#### Main screen - night mode
 ![](https://github.com/Maudah/React-Native-WeatherApp/blob/main/src/img/Main_screen_night.JPG)
 
 #### The expanded item
