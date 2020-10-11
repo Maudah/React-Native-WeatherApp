@@ -10,13 +10,13 @@ This project Display a 5-day weather forecast based on the current user location
 ### 
 
 #### Main screen - day zone
-![](https://github.com/Maudah/React-Native-WeatherApp/blob/main/src/img/Main_sreen_day.JPG =250x250)
+![](https://github.com/Maudah/React-Native-WeatherApp/blob/main/src/img/Main_sreen_day.JPG)
 
 #### Main screen - night zone
-![](https://github.com/Maudah/React-Native-WeatherApp/blob/main/src/img/Main_screen_night.JPG =250x250)
+![](https://github.com/Maudah/React-Native-WeatherApp/blob/main/src/img/Main_screen_night.JPG)
 
 #### The expanded item
-![](https://github.com/Maudah/React-Native-WeatherApp/blob/main/src/img/Item%20expanded.JPG =250x250)
+![](https://github.com/Maudah/React-Native-WeatherApp/blob/main/src/img/Item%20expanded.JPG)
 
 ## steps before running the project:
 npm install<br/>
